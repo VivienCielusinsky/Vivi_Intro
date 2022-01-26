@@ -1,30 +1,23 @@
-<h1 align="center">Oi 👋, Eu sou o Alex Simões a.k.a "LX"</h1>
-<h3 align="center">Engenheiro de projetos de automação elétrica para indústria e apaixonado por programação.  </h3>
+<h1 align="center">Oi 👋, Eu sou a Vivien Cielusinsky, mas pode me chamar de Vivi :)</h1>
+<h3 align="center">Sou Engenheira de Controle e Automação, formada pela UNICAMP em 2018 </h3>
 
 
 
-- 👷 Atualmente trabalho na [**Schneider Electric**](www.se.com)
+- 👷 Atualmente trabalho na [**Motorola**](https://www.motorola.com.br/)
 
-- 🌱 Estou estudando [**Python**](https://www.python.org/), [**Flask**](https://flask.palletsprojects.com/en/2.0.x/) e [**PHP**](https://www.php.net/)
+- 📚 Estou cursando MBA em Data Science & Analytics pela [**USP/Esalq**](https://mbauspesalq.com/)
 
-- 📫 Pode falar comigo através do e-mail **lxlx19@gmail.com**
+- 📫 Pode falar comigo através do e-mail **vivicavinato@gmail.com**
 
-- 🔎 Saiba mais sobre mim no [**Linkedin**](https://www.linkedin.com/in/alex-simoess/)
+- 🔎 Saiba mais sobre mim no [**Linkedin**](www.linkedin.com/in/vivien-cielusinsky)
 
-- 🖥️ Gosto de trabalhar no [**Windows 10**](https://www.microsoft.com/pt-br/software-download/windows10) e também no [**Manjaro**](https://manjaro.org/)
-
-- 🧩 Sou viciado em montagem de quebra-cabeças (jigsaw puzzle). Pode encontrar minhas montagens clicando no [**Instagram**](https://www.instagram.com/lx_puzzle/)
-
-- 🐔 Sou jogador de FPS Tático. Já joguei [**CS: GO**](https://blog.counter-strike.net/), mas hoje prefiro competir no [**Valorant**](https://playvalorant.com/pt-br/)
+- 🎮 Sou jogadora de [**League of Legends**](https://www.leagueoflegends.com/pt-br/) e [**Wild Rift**](https://wildrift.leagueoflegends.com/pt-br/) nas horas vagas
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alex-simoess/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alex-simoess"/></a>
-<a href="https://discord.gg/TyjVrfVz" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="lxlx191" /></a>
-<a href="mailto:lxlx19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="lxlx19" /></a>
-<a href="https://instagram.com/lx_puzzle" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="lx_puzzle" /></a>
-<a href="https://www.youtube.com/channel/UCWbKzrKXA5maxm4f18GPuyQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="lxlx19"/></a>
-<a href="https://www.twitch.tv/lxlx19" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="lxlx19" /></a>
+<a href="https://www.linkedin.com/in/vivien-cielusinsky" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vivien-cielusinsky"/></a>
+<a href="mailto:vivicavinato@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="vivien-cielusinsky" /></a>
+<a href="https://www.instagram.com/vivicielusinsky/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vivien-cielusinsky" /></a>
 </p>
 
 <h3 align="left">Linguagens e Bibliotecas:</h3>
@@ -61,19 +54,9 @@
 
 <h3 align="left">OS:</h3>
 <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://manjaro.org/" target="_blank" rel="noreferrer"> <img src="./Image/Manjaro-logo.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Suporte:</h3>
-<p><a href="https://www.buymeacoffee.com/lxlx19"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lxlx19" /></a></p><br><br>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/lxlx19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxlx19&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxlx19&layout=compact&show_icons=true&locale=pt-br"/>
-</div>
-
   
-   ![Snake animation](https://github.com/lxlx19/lxlx19/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/VivienCielusinsky/Vivi_Intro/blob/output/github-contribution-grid-snake.svg)
